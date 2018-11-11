@@ -1,0 +1,10 @@
+Welcome!
+This little one is what we call an asset.
+They're trying to prepare to go into other games!
+But they need your help to test all their functions!
+Let's start with walking. Click the W to add walking to the queue!
+The queue performs actions in the order they were added!
+Once you have actions in the queue, you can click the start button!
+--
+
+--

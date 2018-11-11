@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6f65165faca8a174487d2ec15534a299
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - walk: {instanceID: 0}
+  - start: {instanceID: 0}
+  - character: {instanceID: 0}
+  - jump: {fileID: 21300000, guid: 315b58a0dbc853a4ab3641a48477c21e, type: 3}
+  - codingMusic: {instanceID: 0}
+  - playMusic: {instanceID: 0}
+  - jumpMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6 @@
+Now let's try jumping!
+Press the Jump button to add a jump to the queue!
+Then press start like you did for walking!
+--
+
+--
